@@ -1,0 +1,2 @@
+SHA256 hash de C:\GestorDAM\web\instaladores\GestorDAM-Setup.exe:
+7a3e72fc622f0b2bc25bf802d734c42a57e7fe12aedad6940e0590fa4a1ede6e
